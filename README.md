@@ -1,5 +1,8 @@
 # DevKG community links
 
+## Websites
+* [Dev.kg](http://dev.kg)
+
 ## Facebook groups
 
 * [IT-Club Kyrgyzstan](https://www.facebook.com/groups/itclubkg)
