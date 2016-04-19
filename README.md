@@ -6,6 +6,7 @@
 * [Кружок программистов IT-Attractor Plus](https://www.facebook.com/groups/itattractorclub)
 * [GDG Bishkek](https://www.facebook.com/GDGBishkek)
 * [Bitcoin Kyrgyzstan](https://www.facebook.com/groups/bitcoinkyrgyzstan)
+* [ACM ICPC at KYRGYZSTAN](https://www.facebook.com/groups/219510421522554)
  
 ## Google+ groups
 * [Программисты Кыргызстана](https://plus.google.com/u/0/communities/109805369868825680967)
