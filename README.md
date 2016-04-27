@@ -33,3 +33,4 @@
 
 ## Youtube channels
 * [DevKG] (https://www.youtube.com/channel/UCagEjp1FmxY9gsVxi6_d4SQ)
+* [Кружок программистов] (https://www.youtube.com/channel/UC-KO5vi1CwwG4un7ISBUmJQ)
