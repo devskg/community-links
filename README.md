@@ -12,8 +12,8 @@
 * [ACM ICPC at KYRGYZSTAN](https://www.facebook.com/groups/219510421522554)
  
 ## Google+ groups
-* [Программисты Кыргызстана](https://plus.google.com/u/0/communities/109805369868825680967)
-* [GDG Bishkek](https://plus.google.com/u/0/107766380565023451691)
+* [Программисты Кыргызстана](https://plus.google.com/communities/109805369868825680967)
+* [GDG Bishkek](https://plus.google.com/107766380565023451691)
 
 ## Telegram groups
 * [KG developers group](https://telegram.me/devkg)
@@ -23,10 +23,12 @@
 * [Mobile developers group](https://telegram.me/mobidev)
 * [Кружок программистов IT-Attractor plus](https://telegram.me/programmingclub)
 * [Bitcoin Kyrgyzstan](https://web.telegram.org/#/im?p=g16604184)
+* [KG Linux Users Group (KG Linux Local Community)](https://telegram.me/KGLUG)
 
 ## Telegram channels
 * [IT Events](https://telegram.me/geekevents)
 * [Spalmalo Tech Talks](https://telegram.me/spalmalo_tt)
+* [FOSS & Linux Technologies](https://telegram.me/technologique)
 
 ## Slack organization
 * [Slack.kg](http://slack.kg)
