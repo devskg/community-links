@@ -30,6 +30,7 @@
 * [Spalmalo Tech Talks](https://telegram.me/spalmalo_tt)
 * [FOSS & Linux Technologies](https://telegram.me/technologique)
 * [Everyday it-links with Andrew MInkin](https://telegram.me/links_stock)
+* [Technologique](https://telegram.me/technologique)
 
 ## Slack organization
 * [Slack.kg](http://slack.kg)
