@@ -28,8 +28,8 @@
 ## Telegram channels
 * [IT Events](https://telegram.me/geekevents)
 * [Spalmalo Tech Talks](https://telegram.me/spalmalo_tt)
-* [FOSS & Linux Technologies](https://telegram.me/technologique)
-* [Everyday it-links with Andrew MInkin](https://telegram.me/links_stock)
+* [Technologique - Технологии программирования и разработки](https://telegram.me/technologique)
+* [Mad Devs Channel](https://telegram.me/maddevsio)
 
 ## Slack organization
 * [Slack.kg](http://slack.kg)
