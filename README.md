@@ -24,6 +24,9 @@
 * [Кружок программистов IT-Attractor plus](https://telegram.me/programmingclub)
 * [Bitcoin Kyrgyzstan](https://web.telegram.org/#/im?p=g16604184)
 * [KG Linux Users Group (KG Linux Local Community)](https://telegram.me/KGLUG)
+* [JavaScript Developers](https://t.me/jsdevs)
+* [C# Developers](https://t.me/csharp_devs_kg)
+* [Agile in Kyrgyzstan](https://t.me/agileinkg)
 
 ## Telegram channels
 * [IT Events](https://telegram.me/geekevents)
