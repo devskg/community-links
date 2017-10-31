@@ -27,6 +27,7 @@
 * [JavaScript Developers](https://t.me/jsdevs)
 * [C# Developers](https://t.me/csharp_devs_kg)
 * [Agile in Kyrgyzstan](https://t.me/agileinkg)
+* [DevOps](https://t.me/devopskg)
 
 ## Telegram channels
 * [IT Events](https://telegram.me/geekevents)
