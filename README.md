@@ -1,44 +1,9 @@
-# DevKG community links
+# DevKG community page
 
-## Websites
-* [Dev.kg](http://dev.kg)
+Если хотите добавить что либо или удалить, отправьте Pull Request или создайте Issue.
 
-## Facebook groups
+#### Инструкции
 
-* [IT-Club Kyrgyzstan](https://www.facebook.com/groups/itclubkg)
-* [Кружок программистов IT-Attractor Plus](https://www.facebook.com/groups/itattractorclub)
-* [GDG Bishkek](https://www.facebook.com/GDGBishkek)
-* [Bitcoin Kyrgyzstan](https://www.facebook.com/groups/bitcoinkyrgyzstan)
-* [ACM ICPC at KYRGYZSTAN](https://www.facebook.com/groups/219510421522554)
- 
-## Google+ groups
-* [Программисты Кыргызстана](https://plus.google.com/communities/109805369868825680967)
-* [GDG Bishkek](https://plus.google.com/107766380565023451691)
+[Как создать Pull Request](https://git-scm.com/book/ru/v2/GitHub-%D0%92%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4%D0%B0-%D0%B2-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B)
 
-## Telegram groups
-* [KG developers group](https://telegram.me/devkg)
-* [Python developers group](https://telegram.me/PythonBishkek)
-* [Ruby developers group](https://telegram.me/rubyata)
-* [Frontend developers group](https://telegram.me/frontendbishkek)
-* [Mobile developers group](https://telegram.me/mobidev)
-* [Кружок программистов IT-Attractor plus](https://telegram.me/programmingclub)
-* [Bitcoin Kyrgyzstan](https://web.telegram.org/#/im?p=g16604184)
-* [KG Linux Users Group (KG Linux Local Community)](https://telegram.me/lug_kg)
-* [JavaScript Developers](https://t.me/jsdevs)
-* [C# Developers](https://t.me/csharp_devs_kg)
-* [Agile in Kyrgyzstan](https://t.me/agileinkg)
-* [DevOps](https://t.me/devopskg)
-* [Golang Bishkek](https://t.me/bishkekgophers)
-
-## Telegram channels
-* [IT Events](https://telegram.me/geekevents)
-* [Spalmalo Tech Talks](https://telegram.me/spalmalo_tt)
-* [Technologique - Технологии программирования и разработки](https://telegram.me/technologique)
-* [Mad Devs Channel](https://telegram.me/maddevsio)
-
-## Slack organization
-* [Slack.kg](http://slack.kg)
-
-## Youtube channels
-* [DevKG] (https://www.youtube.com/channel/UCagEjp1FmxY9gsVxi6_d4SQ)
-* [Кружок программистов] (https://www.youtube.com/channel/UC-KO5vi1CwwG4un7ISBUmJQ)
+[Как создать Issue](https://help.github.com/articles/creating-an-issue/)
