@@ -17,58 +17,6 @@
       "value": "https://telegram.me/devmeetups"
     }
   ],
-  "websites": [
-    {
-      "label": "Dev.kg",
-      "value": "http://dev.kg"
-    },
-    {
-      "label": "PyCon Kyrgyzstan",
-      "value": "http://pyconkg.com"
-    },
-    {
-      "label": "PyCon Kyrgyzstan",
-      "value": "http://pyconkg.com"
-    }
-  ],
-  "github": [
-    {
-      "label": "Devskg",
-      "value": "https://github.com/devskg"
-    },
-    {
-      "label": "DevKG community",
-      "value": "https://github.com/devkg-community"
-    }
-  ],
-  "facebook": [
-    {
-      "label": "IT-Club Kyrgyzstan",
-      "value": "https://www.facebook.com/groups/itclubkg"
-    },
-    {
-      "label": "GDG Bishkek",
-      "value": "https://www.facebook.com/GDGBishkek"
-    },
-    {
-      "label": "Bitcoin and Blockchain Kyrgyzstan",
-      "value": "https://www.facebook.com/groups/bitcoinkyrgyzstan"
-    },
-    {
-      "label": "Competitive Programming in KGZ",
-      "value": "https://www.facebook.com/groups/219510421522554"
-    }
-  ],
-  "google_plus": [
-    {
-      "label": "Программисты Кыргызстана",
-      "value": "https://plus.google.com/communities/109805369868825680967"
-    },
-    {
-      "label": "GDG Bishkek",
-      "value": "https://plus.google.com/107766380565023451691"
-    }
-  ],
   "telegram_chats": [
     {
       "label": "DevKG город Ош",
@@ -149,6 +97,38 @@
       "value": "https://t.me/maddevsio"
     }
   ],
+  "websites": [
+    {
+      "label": "Dev.kg",
+      "value": "http://dev.kg"
+    },
+    {
+      "label": "PyCon Kyrgyzstan",
+      "value": "http://pyconkg.com"
+    },
+    {
+      "label": "PyCon Kyrgyzstan",
+      "value": "http://pyconkg.com"
+    }
+  ],
+  "facebook": [
+    {
+      "label": "IT-Club Kyrgyzstan",
+      "value": "https://www.facebook.com/groups/itclubkg"
+    },
+    {
+      "label": "GDG Bishkek",
+      "value": "https://www.facebook.com/GDGBishkek"
+    },
+    {
+      "label": "Bitcoin and Blockchain Kyrgyzstan",
+      "value": "https://www.facebook.com/groups/bitcoinkyrgyzstan"
+    },
+    {
+      "label": "Competitive Programming in KGZ",
+      "value": "https://www.facebook.com/groups/219510421522554"
+    }
+  ],
   "youtube": [
     {
       "label": "DevKG",
@@ -169,6 +149,26 @@
     {
       "label": "Z&Talks",
       "value": "https://www.youtube.com/channel/UC83tq4ZNJeUBhgQApTUmEVg"
+    }
+  ],
+  "github": [
+    {
+      "label": "Devskg",
+      "value": "https://github.com/devskg"
+    },
+    {
+      "label": "DevKG community",
+      "value": "https://github.com/devkg-community"
+    }
+  ],
+  "google_plus": [
+    {
+      "label": "Программисты Кыргызстана",
+      "value": "https://plus.google.com/communities/109805369868825680967"
+    },
+    {
+      "label": "GDG Bishkek",
+      "value": "https://plus.google.com/107766380565023451691"
     }
   ]
 }
