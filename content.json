@@ -156,15 +156,5 @@
       "label": "DevKG community",
       "value": "https://github.com/devkg-community"
     }
-  ],
-  "google_plus": [
-    {
-      "label": "Программисты Кыргызстана",
-      "value": "https://plus.google.com/communities/109805369868825680967"
-    },
-    {
-      "label": "GDG Bishkek",
-      "value": "https://plus.google.com/107766380565023451691"
-    }
   ]
 }
