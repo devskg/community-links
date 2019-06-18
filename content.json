@@ -15,9 +15,21 @@
     {
       "label": "Видеоконференции",
       "value": "https://telegram.me/devmeetups"
+    },
+    {
+      "label": "Relocate & Remote",
+      "value": "https://telegram.me/findremote"
     }
   ],
   "telegram_chats": [
+    {
+      "label": "Chat / PM",
+      "value": "https://t.me/pmrole"
+    },
+    {
+      "label": "DevKarakol",
+      "value": "https://t.me/devkarakol"
+    },
     {
       "label": "DevKG город Ош",
       "value": "https://t.me/oshdevkg"
@@ -63,10 +75,6 @@
       "value": "https://telegram.me/lug_kg"
     },
     {
-      "label": "Agile in Kyrgyzstan",
-      "value": "https://telegram.me/agileinkg"
-    },
-    {
       "label": "QA",
       "value": "https://t.me/testkg"
     },
@@ -99,8 +107,8 @@
   ],
   "websites": [
     {
-      "label": "Dev.kg",
-      "value": "http://dev.kg"
+      "label": "Lance.kg",
+      "value": "http://lance.kg"
     },
     {
       "label": "PyCon Kyrgyzstan",
