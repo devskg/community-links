@@ -1,0 +1,168 @@
+{
+  "devkg": [
+    {
+      "label": "Общий чат",
+      "value": "https://telegram.me/devkg"
+    },
+    {
+      "label": "Вакансии",
+      "value": "https://telegram.me/findwork"
+    },
+    {
+      "label": "Мероприятия",
+      "value": "https://telegram.me/geekevents"
+    },
+    {
+      "label": "Видеоконференции",
+      "value": "https://telegram.me/devmeetups"
+    },
+    {
+      "label": "Relocate & Remote",
+      "value": "https://telegram.me/findremote"
+    }
+  ],
+  "telegram_chats": [
+    {
+      "label": "Chat / PM",
+      "value": "https://t.me/pmrole"
+    },
+    {
+      "label": "DevKarakol",
+      "value": "https://t.me/devkarakol"
+    },
+    {
+      "label": "DevKG город Ош",
+      "value": "https://t.me/oshdevkg"
+    },
+    {
+      "label": "JavaScript Developers",
+      "value": "https://telegram.me/jsdevs"
+    },
+    {
+      "label": "Python developers",
+      "value": "https://telegram.me/PythonBishkek"
+    },
+    {
+      "label": "Ruby developers",
+      "value": "https://telegram.me/rubyata"
+    },
+    {
+      "label": "C# Developers",
+      "value": "https://telegram.me/csharp_devs_kg"
+    },
+    {
+      "label": "GoLang Developers",
+      "value": "https://telegram.me/bishkekgophers"
+    },
+    {
+      "label": "PHP Developers",
+      "value": "https://telegram.me/phpkg"
+    },
+    {
+      "label": "Frontend developers",
+      "value": "https://telegram.me/frontendbishkek"
+    },
+    {
+      "label": "Mobile developers",
+      "value": "https://telegram.me/mobidev"
+    },
+    {
+      "label": "Кружок программистов",
+      "value": "https://telegram.me/programmingclub"
+    },
+    {
+      "label": "KG Linux Users Group",
+      "value": "https://telegram.me/lug_kg"
+    },
+    {
+      "label": "QA",
+      "value": "https://t.me/testkg"
+    },
+    {
+      "label": "DevOps",
+      "value": "https://t.me/devopskg"
+    },
+    {
+      "label": "Информационная безопасность",
+      "value": "https://t.me/secinfosec"
+    },
+    {
+      "label": "Upwork",
+      "value": "https://t.me/upworkkyrgyzstan"
+    }
+  ],
+  "telegram_channels": [
+    {
+      "label": "Spalmalo Tech Talks",
+      "value": "https://t.me/spalmalo_tt"
+    },
+    {
+      "label": "Technologic",
+      "value": "https://t.me/technologique"
+    },
+    {
+      "label": "Mad Devs",
+      "value": "https://t.me/maddevsio"
+    }
+  ],
+  "websites": [
+    {
+      "label": "Lance.kg",
+      "value": "http://lance.kg"
+    },
+    {
+      "label": "PyCon Kyrgyzstan",
+      "value": "http://pyconkg.com"
+    }
+  ],
+  "facebook": [
+    {
+      "label": "IT-Club Kyrgyzstan",
+      "value": "https://www.facebook.com/groups/itclubkg"
+    },
+    {
+      "label": "GDG Bishkek",
+      "value": "https://www.facebook.com/GDGBishkek"
+    },
+    {
+      "label": "Bitcoin and Blockchain Kyrgyzstan",
+      "value": "https://www.facebook.com/groups/bitcoinkyrgyzstan"
+    },
+    {
+      "label": "Competitive Programming in KGZ",
+      "value": "https://www.facebook.com/groups/219510421522554"
+    }
+  ],
+  "youtube": [
+    {
+      "label": "DevKG",
+      "value": "https://www.youtube.com/channel/UCagEjp1FmxY9gsVxi6_d4SQ"
+    },
+    {
+      "label": "Кружок программистов",
+      "value": "https://www.youtube.com/channel/UC-KO5vi1CwwG4un7ISBUmJQ"
+    },
+    {
+      "label": "Keybeard",
+      "value": "https://www.youtube.com/channel/UCvxfGSKhOx5FMEFtFzDgcmA"
+    },
+    {
+      "label": "Mad Devs",
+      "value": "https://www.youtube.com/channel/UCF6liiudpZq6AQe6hXVEW7w"
+    },
+    {
+      "label": "Z&Talks",
+      "value": "https://www.youtube.com/channel/UC83tq4ZNJeUBhgQApTUmEVg"
+    }
+  ],
+  "github": [
+    {
+      "label": "Devskg",
+      "value": "https://github.com/devskg"
+    },
+    {
+      "label": "DevKG community",
+      "value": "https://github.com/devkg-community"
+    }
+  ]
+}
